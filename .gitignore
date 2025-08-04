@@ -1,7 +1,3 @@
 .env
 node_modules/
 .vercel
-
-
-MONGO_URI=mongodb+srv://javohir009:maktab0009@cluster0.6rudpen.mongodb.net/Il9eGOLPVRGSJoLH?retryWrites=true&w=majority
-PORT=5000
