@@ -18,5 +18,8 @@
     "mongodb": "^6.17.0",
     "mongoose": "^8.16.1",
     "multer": "^2.0.2"
+  },
+  "devDependencies": {
+    "vercel": "^44.7.0"
   }
 }
